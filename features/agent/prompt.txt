@@ -1,0 +1,11 @@
+Please help me modify the generateGreeting function in agent.js. Here are the steps:
+
+1. Add a new parameter called 'timeOfDay' to the generateGreeting function. The function should now include the time of day in the greeting. For example, if timeOfDay is "morning", it should return "Good morning, Alice!".
+
+2. Run the test - it should fail now since we changed the function signature and behavior.
+
+3. Update the test_generateGreeting function to test the new behavior. Add a test case that checks if the function correctly includes the time of day in the greeting.
+
+4. Run the test again - it should pass now.
+
+Please make these changes one at a time and show me the results after each step.
