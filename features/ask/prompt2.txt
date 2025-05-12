@@ -1,0 +1,8 @@
+Can you help me understand what this stored procedure does? I'm particularly interested in:
+
+1. What is the main purpose of this procedure?
+2. What do the input parameters mean?
+3. What are the key calculations being performed?
+4. Can you help make this more readable with better variable names?
+
+Please explain it in simple terms and suggest how to make it more maintainable.
