@@ -1,0 +1,2 @@
+Split this function into 3 smaller functions: validateOrder, calculateTotal, and buildSummary.
+

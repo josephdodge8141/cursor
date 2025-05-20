@@ -1,0 +1,9 @@
+{
+  "name": "tdd-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TDD example with plain JavaScript tests",
+  "scripts": {
+    "test": "node tdd_test.js"
+  }
+} 
