@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "tdd-refactor",
+  "version": "1.0.0",
+  "description": "TDD refactoring exercise",
+  "scripts": {
+    "test": "node tdd_refactor_test.js"
+  }
+} 

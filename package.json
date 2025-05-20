@@ -1,0 +1,7 @@
+{
+  "name": "cursor-examples",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Cursor examples project",
+  "private": true
+} 

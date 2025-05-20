@@ -1,1 +1,1 @@
-Based on the tdd test, populate the tdd file with a user service to pass all test cases. After each function is implemented, run the tests to validate your work.
+Based on the tdd_test.js, populate the tdd file with a user service to pass all test cases. After each function is implemented, run the tests to validate your work.

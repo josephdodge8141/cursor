@@ -1,4 +1,4 @@
-import { describe, it, expect } from './testUtils.js';
+import { describe, it, expect } from '../../test/testUtils.js';
 import { createUser, getUserById, deleteUser } from './tdd.js';
 
 describe('User Service', async () => {
