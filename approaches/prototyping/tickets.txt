@@ -1,0 +1,173 @@
+📋 Prototype Project: Job Board Frontend
+🔧 EPIC: Build a Job Board Prototype (HTML/CSS/JS Only)
+✅ Ticket 1: Initial Structure
+Title: Set up basic HTML structure
+Description:
+Create a minimal HTML page with the following structure:
+
+Header with site title ("DevBoard")
+
+A section for a search/filter bar
+
+A section to list jobs
+
+Footer with basic contact info
+
+✅ Ticket 2: Add Job Card Component
+Title: Create job card layout
+Description:
+
+Each job card should include:
+
+Job title
+
+Company name
+
+Short description
+
+Tags (e.g. "Remote", "Full-time")
+
+“Apply Now” button
+
+Use plain HTML and semantic tags.
+
+✅ Ticket 3: Style the Page with CSS
+Title: Add basic styling using CSS
+Description:
+
+Use flexbox or grid to create layout
+
+Add spacing, font hierarchy, and hover states
+
+Make cards responsive
+
+Choose a clean, modern color palette
+
+✅ Ticket 4: Add Filtering Logic (Vanilla JS)
+Title: Add tag filtering functionality
+Description:
+
+Add tag buttons (e.g. "Remote", "Full-time", "Contract")
+
+When clicked, filter visible job cards by tag
+
+Highlight selected tags
+
+✅ Ticket 5: Add Search by Keyword
+Title: Implement job search bar
+Description:
+
+Add a text input at the top
+
+Filter job cards in real time as the user types
+
+Match on job title and description
+
+✅ Ticket 6: Add Job Data from JSON
+Title: Load job data from a jobs.json file
+Description:
+
+Load job data dynamically on page load
+
+Render job cards using JS
+
+Structure:
+
+json
+Copy
+Edit
+{
+  "title": "Frontend Developer",
+  "company": "Acme Inc.",
+  "description": "Join our fast-paced frontend team...",
+  "tags": ["Remote", "Full-time"]
+}
+✅ Ticket 7: Add Modal for Full Job View
+Title: Create a job detail modal
+Description:
+
+When “Apply Now” is clicked, open a modal
+
+Modal should include:
+
+Full description
+
+Company logo (placeholder)
+
+“Apply via email” link
+
+✅ Ticket 8: Make the Layout Mobile-Friendly
+Title: Add responsive breakpoints
+Description:
+
+Make sure the site looks great on mobile
+
+Collapse filters into dropdown or togglable sidebar
+
+Stack cards vertically
+
+✅ Ticket 9: Add Dark Mode Toggle
+Title: Add dark mode support
+Description:
+
+Add a toggle button to switch between light/dark themes
+
+Use CSS variables to control color palette
+
+Save preference in localStorage
+
+✅ Ticket 10: Add Loading and Empty States
+Title: Show visual feedback for edge cases
+Description:
+
+Show “Loading jobs...” while data loads
+
+Show “No jobs found” if filters/search return nothing
+
+✅ Ticket 11: Add Job Sorting Dropdown
+Title: Allow sorting by title or company name
+Description:
+
+Add a select dropdown:
+
+Sort by Title (A-Z)
+
+Sort by Company (A-Z)
+
+Re-render job list on change
+
+✅ Ticket 12: Componentize Job Card with Template Strings
+Title: Make reusable renderJobCard(job) function
+Description:
+
+Use a JS function to generate HTML string for each job
+
+Keep it easy to extend for future additions (e.g., salary, posting date)
+
+✅ Ticket 13: Animate Modal and Filters
+Title: Add basic animations
+Description:
+
+Fade in/out for modal
+
+Slide or fade toggle for filter section
+
+Smooth transitions for layout changes
+
+✅ Ticket 14: Add Fake “Post a Job” Button
+Title: Add placeholder for job submission
+Description:
+
+Add a “Post a Job” button in the header
+
+Clicking opens a disabled form or a tooltip saying “Coming soon”
+
+✅ Ticket 15: Polish and Refactor
+Title: Clean up CSS and JS
+Description:
+
+Remove unused styles
+
+Extract repeated JS into utility functions
+
+Final pass on spacing, sizing, and mobile layout

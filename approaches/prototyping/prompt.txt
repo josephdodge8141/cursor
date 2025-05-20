@@ -1,0 +1,1 @@
+I need you to go through each of the tickets listed in @tickets.txt to create a prototype job board. Put all of your data in @prototyping_project
