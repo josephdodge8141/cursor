@@ -1,0 +1,10 @@
+1. Use the following prompt and see what happens
+2. Add @function-naming-comments.mdc in the context. Clear out the cursor_rules.js file and re-run in new chat
+3. Use cmd+p to open function-naming-comments.mdc and change manual to auto attached with cursor_rules.js as the file match.
+   Clear out the cursor_rules.js file and re-run in new chat.
+4. Use cmd+p to open agent-requested.mdc and change to agent requested. Fill the text box with "Any functions that change
+   strings." Clear out cursor_rules.js and re-run in new chat.
+5. Use cmd+p to open always.mdc and change to always. Fill the text box with "Always run a command to test new functions." 
+   Clear out cursor_rules.js and re-run in new chat.
+
+Prompt: Write a funtion to reverse a string

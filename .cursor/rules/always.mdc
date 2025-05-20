@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Run a command to test any new functions that you implement.

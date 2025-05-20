@@ -46,3 +46,18 @@ const buttonStyles = {
 };
 
 
+// Partial Accepts
+
+const userText = `Cursor offers several wonderful features! 
+Tab is Cursor's implementation of autocompletion.
+In addition to tab, they have a variety of chat modes.
+The chat modes are:
+`
+
+
+
+
+
+
+
+

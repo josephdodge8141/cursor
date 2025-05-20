@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "errorSolver": {
+        "command": "/Users/josephdodge/Projects/cursor/concepts/mcp/.venv/bin/python",
+        "args": ["/Users/josephdodge/Projects/cursor/concepts/mcp/mcp.py"]
+      }
+    }
+  }
+  
