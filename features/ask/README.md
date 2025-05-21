@@ -42,5 +42,6 @@ In this directory, you'll find example files that you can use to practice the As
 - Select only the relevant code sections
 - Include context about what you're trying to accomplish
 - Ask follow-up questions to clarify anything you don't understand
+- Include responses from the terminal in your context
 
 The Ask functionality is particularly useful when learning new codebases or technologies, as it can help you quickly understand unfamiliar code patterns and concepts. 
